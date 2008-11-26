@@ -1,13 +1,15 @@
 <?xml version="1.0" ?> <article xmlns:content="http://purl.org/rss/1.0/modules/content/">
    <header>
-      <title>PONTUAÇÃO:  USO DA VÍRGULA _2</title>
+      <title>Pontuação - uso da vírgula 2</title>
       <categories>
          <category_item>gramática pt-br</category_item>
          <category_item>língua portuguesa</category_item>
+         <category_item>pontuação</category_item>
+         <category_item>vírgula</category_item>
       </categories>
    </header>
    <content><![CDATA[
-      <h2><a title="pontuacaov_i_r_g_u_l_a" name="pontuacaov_i_r_g_u_l_a" id="pontuacaov_i_r_g_u_l_a"></a>Pontuação: V Í R G U L A</h2>
+      <h2><a title="pontuacao_virgula" name="pontuacao_virgula" id="pontuacao_virgula"></a>Pontuação: V Í R G U L A</h2>
       <p class="level2"> Um texto sem pontuação não tem sentido. Assim, observamos que a pontuação procura aproximar a escrita à
       língua falada, principalmente com relação às entonações. - Um texto não é um amontoado de palavras - elas têm uma organização
       na frase. A pontuação ajuda também nessa organização.</p>
