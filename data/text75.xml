@@ -1,6 +1,6 @@
 <?xml version="1.0" ?> <article xmlns:content="http://purl.org/rss/1.0/modules/content/">
    <header>
-      <title>Com vírgula - or.sub.adjetiva explicativa</title>
+      <title>Vírgula e oração subordinada adjetiva explicativa</title>
       <categories>
          <category_item>or. sub. adj.explicativa</category_item>
          <category_item>dicas</category_item>
@@ -10,12 +10,13 @@
           <category_item>pontuação</category_item>
       </categories>
    </header>
-   <content><![CDATA[Emprego da vírgula (as or. subord. adj. explicativas estão em itálico)
+   <content><![CDATA[Justificativa para o emprego da vírgula: <br/><br/>
       <ol> O homem, <em>que é racional</em>, saberá evitar uma terceira guerra.</ol>
       <ol> Até ele, <em>que é o melhor da turma</em>, não quis participar do campeonato de xadrez.</ol>
       <ol>A moça, <em>que deixou a bolsa no avião</em>, era americana.</ol>
       <ol> A blusa, <em>que está na costureira</em>, é de lã.</ol>
       Justificativa:
-      Emprega-se a vírgula para isolar orações subordinadas adjetivas explicativas.]]>
+      Emprega-se a vírgula para isolar orações subordinadas adjetivas explicativas. Nos exemplos acima, 
+      as referidas orações estão destacadas em <em>itálico</em>]]>
    </content>
 </article>
