@@ -7,22 +7,25 @@
       <category_item>gramática pt-br</category_item>
       </categories>
    </header>
-   <content><![CDATA[ Reconhecimento de um verbo de ação:<br>
+   <content><![CDATA[
+   <h2>Reconhecimento de um verbo de ação:</h2>
 
-<p>Caracteriza uma atividade expressa pelo verbo e realizada pelo sujeito agente. Indica um fazer por parte
-do sujeito. Contém traços de atividade relacionado com sujeito agente. Compõe uma frase ativa,
-com fazer por parte do sujeito. Tem no mínimo um argumento. Quando tem dois ou três, 
-são complementos não afetados pela ação verbal, não apresentam mudança de estado físico, moral,
-de condição, de posicionamento no tempo ou espaço).</p>
+<p>Caracteriza uma atividade expressa pelo verbo e realizada pelo sujeito agente.<br>
+Indica um fazer por parte do sujeito.<br>
+Contém traços de atividade relacionado com sujeito agente.<br>
+Compõe uma frase ativa, com fazer por parte do sujeito.<br>
+Tem no mínimo um argumento. Quando tem dois ou três, são complementos não afetados pela ação verbal,
+não apresentam mudança de estado físico, moral, de condição, de posicionamento no tempo ou espaço).</p>
 
-- O verbo pode até se realizar com especificadores (<i>Ele gritava até pelos poros</i>): sair, bater, ir,
-vir, beber, gritar,etc; verbos de dizer:dizer, falar, perguntar, discursar; 
-verbos de atividade mental: pensar, raciocinar, ajuizar, considerar, pensar,
+- O verbo pode até se realizar com especificadores: <i>Ele gritava até pelos poros</i>. Comun ocorrer 
+com os verbos: sair, bater, ir, vir, beber, gritar, etc.<br>
+- Verbos de dizer (verbos <i>dicendi</i>): dizer, responder, perguntar,falar, discursar, etc.<br>
+- Verbos de atividade mental: pensar, raciocinar, ajuizar, considerar, pensar,
 indagar, explorar,repetir;<br>
 
-- verbos de atividade mental: pensar, raciocinar, considerar, ajuizar, etc.<br>
+- Verbos de atividade mental: pensar, raciocinar, considerar, ajuizar, etc.<br>
 
-- mancar, cochear, gaguejar e tartamudear - só se forem representados por sujeito agente.<br>]]>
+- Observar que: mancar, cochear, gaguejar e tartamudear - só se forem representados por sujeito agente.<br>]]>
    </content>
 </article>
  
