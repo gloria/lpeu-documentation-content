@@ -1,31 +1,28 @@
 <?xml version="1.0" ?> <article xmlns:content="http://purl.org/rss/1.0/modules/content/">
    <header>
-      <title>Verbos de Ação</title>
+      <title>Verbos de ação</title>
       <categories>
       <category_item>verbos</category_item>
-      <category_item>classificação dos verbos</category_item>
       <category_item>gramática pt-br</category_item>
       </categories>
    </header>
    <content><![CDATA[
    <h2>Reconhecimento de um verbo de ação:</h2>
-
-<p>Caracteriza uma atividade expressa pelo verbo e realizada pelo sujeito agente.<br>
-Indica um fazer por parte do sujeito.<br>
-Contém traços de atividade relacionado com sujeito agente.<br>
-Compõe uma frase ativa, com fazer por parte do sujeito.<br>
-Tem no mínimo um argumento. Quando tem dois ou três, são complementos não afetados pela ação verbal,
-não apresentam mudança de estado físico, moral, de condição, de posicionamento no tempo ou espaço).</p>
-
-- O verbo pode até se realizar com especificadores: <i>Ele gritava até pelos poros</i>. Comun ocorrer 
-com os verbos: sair, bater, ir, vir, beber, gritar, etc.<br>
-- Verbos de dizer (verbos <i>dicendi</i>): dizer, responder, perguntar,falar, discursar, etc.<br>
-- Verbos de atividade mental: pensar, raciocinar, ajuizar, considerar, pensar,
-indagar, explorar,repetir;<br>
-
-- Verbos de atividade mental: pensar, raciocinar, considerar, ajuizar, etc.<br>
-
-- Observar que: mancar, cochear, gaguejar e tartamudear - só se forem representados por sujeito agente.<br>]]>
+<p>Caracteriza uma atividade expressa pelo verbo e realizada pelo sujeito agente.</p>
+<p>Indica um fazer por parte do sujeito.</p>
+<p>Contém traços de atividade relacionado com sujeito agente.</p>
+<p>Compõe uma frase ativa, com fazer por parte do sujeito.</p>
+<p>Tem no mínimo um argumento. Quando tem dois ou três, são complementos não afetados pela ação 
+verbal, não apresentam mudança de estado físico, moral, de condição, de posicionamento no tempo ou
+espaço).</p>
+- O verbo pode até se realizar com especificadores: <em>
+Ele gritava até pelos poros.</em><br>
+<p>Comum ocorrer com os verbos: sair, bater, ir, vir, beber, gritar, etc.<br>
+- Verbos de dizer (verbos dicendi): dizer, responder, perguntar,falar, discursar, etc.<br>
+- Verbos de atividade mental: pensar, raciocinar, ajuizar, considerar, pensar, indagar, explorar,
+repetir, etc.<br>
+- Verbos de atividade mental: pensar, raciocinar, considerar, ajuizar, etc.<br></p>
+>]]>
    </content>
 </article>
  
