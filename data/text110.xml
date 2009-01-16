@@ -1,6 +1,6 @@
 <?xml version="1.0" ?> <article xmlns:content="http://purl.org/rss/1.0/modules/content/">
    <header>
-      <title>Intercalação de Termos e Expressões</title>
+      <title>Intercalação de termos e expressões</title>
       <categories>
          <category_item>pontuação</category_item>
          <category_item>vírgula</category_item>
@@ -30,8 +30,8 @@ A criança <strong>que</strong> brinca muito aprende logo.
 <li>Intercalada</li>
 - No meio de outras coisas.<br>
 Maria, <strong>por medo</strong>, não foi ao médico.<br>
-<h4>Compreendendo com exemplos</h4>
-<li>Gostaria de saber,<em>entretanto</em>, se eles vão considerar os meus gastos.</li> 
+<h2>Compreendendo com exemplos a existência de conjunções coordenadas intercaladas</h2>
+<li>Gostaria de saber, <em>entretanto</em>, se eles vão considerar os meus gastos.</li> 
 <li>Os meus gastos, <em>no entanto</em>, foram considerados como despesas necessárias.</li>]]>
    </content>
 </article>
