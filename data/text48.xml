@@ -10,33 +10,31 @@
          <category_item>língua portuguesa</category_item>
       </categories>
    </header>
-   <content><![CDATA[PONTUAÇÃO: <strong>DOIS PONTOS</strong>
-      Todo enunciado se constrói segundo relações  de dependências e independências sintáticas e semânticas. Na verdade, há unidades
-      melódicas e rítmicas representando essas relações. A pontuação é necessária para o entendimento do texto. Tanto é verdade,
-      que uma pontuação errada pode comprometer o sentido da mensagem que se quer transmitir.  Aqui vamos falar dos  <em>dois pontos</em>.<br/><br/>Quando
-      usamos dois pontos?<br/><br/>Usamos dois pontos numa <strong>enumeração</strong>:
-      <ul>
-      	<li>Mila quer dois presentes: um vestido e uma bolsa.</li>
-      </ul>
-      Usamos também numa <strong>explicação</strong>:
-      <ul>
-      	<li>“Os candidatos à eleição deste ano ficaram 46,3% mais ricos do que em 2006: não é novidade”</li>
-      </ul>
-      Usamos em expressões que se seguem aos verbos <strong>dizer, responder, retrucar</strong>, etc:
-      <ul>
-      	<li>Assim ele disse a ela: vai e não volte mais!</li>
-      </ul>
-      <ul>
-      	<li>E então, João respondeu: - Fiz os exercícios, mas deixei-os em casa.</li>
-      </ul>
-      Nas expressões marcadas por <strong>entonação especial</strong> e que marcam uma <strong>explicação</strong>:
-      <ul>
-      	<li>Se você insiste, eu posso explicar novamente: o presente que eu lhe enviei foi apenas para agradecimento.</li>
-      </ul>
-      Nas expressões que representam <strong>uma quebra de idéias</strong>:
-      <ul>
-      	<li>Voltei, parei diante do espelho, olhei para os meus próprios olhos e não acreditei: não podia ser eu a autora daqueles
-      atos!</li>
+   <content><![CDATA[
+      Todo enunciado se constrói segundo relações  de dependências e independências sintáticas e 
+      semânticas, representadas por unidades melódicas e rítmicas. A pontuação é necessária para 
+      o entendimento do texto. Uma pontuação errada pode comprometer o sentido da mensagem 
+      que se quer transmitir.  Aqui vamos falar dos  <em>dois pontos</em>.<br/><br/>Quando
+      usamos dois pontos?<br>
+      <h2>Usamos dois pontos numa <strong>enumeração</strong>:</h2>
+      "Mila quer dois presentes: um vestido e uma bolsa".<br>
+      
+      <h2>Usamos também numa <strong>explicação</strong>:</h2>
+      “Os candidatos à eleição deste ano ficaram 46,3% mais ricos do que em 2006: não é novidade”<br>
+      
+      <h2>Usamos em expressões que se seguem aos verbos <strong>dizer, responder, retrucar</strong>,
+      etc:</h2>
+      "Assim ele disse a ela: vai e não volte mais!"<br>
+      "E então, João respondeu: - Fiz os exercícios, mas deixei-os em casa."<br>
+      
+      <h2>Nas expressões marcadas por <strong>entonação especial</strong> e que marcam uma 
+      <strong>explicação</strong>:</h2>
+      "Se você insiste, eu posso explicar novamente: o presente que eu lhe enviei foi apenas
+      para agradecimento.<br>
+      
+      <h2>Nas expressões que representam <strong>uma quebra de idéias</strong>:</h2>
+      "Voltei, parei diante do espelho, olhei para os meus próprios olhos e não acreditei: não 
+      podia ser eu a autora daqueles atos!<br>
       </ul>]]>
    </content>
 </article>
