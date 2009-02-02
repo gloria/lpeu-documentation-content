@@ -7,113 +7,161 @@
          <category_item>vírgula</category_item>
          <category_item>pontuação</category_item>
       </categories>
+      <autor>Gloria Edini</autor>
    </header>
+   
    <content><![CDATA[
     <p> Há um outro artigo para compreensão dessa pontuação: um pequeno texto com as vírgulas
     marcadas e com explicação para cada caso. Visualize o texto
     <a href="http://www.lpeu.com.br/artigos/text27.html" title="Pontuação:vírgula">
     Pontuação:vírgula</a>.</p>
-      <ol>Banco de informações sobre o uso da vírgula</ol>
+      <h2>Banco de informações sobre o uso da vírgula</h2>
       
-      <h2>Para intercalar termos e expressões num período simples. </h2>
-      Tentei tudo, <em>isto é</em>, quase tudo.<br>
-      Paulo não pode vir, ou melhor, recusou-se a vir. <br>
-      Observe, <em>com muita calma</em>, a sua expressão.
+      <strong>Para intercalar termos e expressões num período simples. </strong>
+      <ul>
+      <li>Tentei tudo, <em>isto é</em>, quase tudo.</li>
+      <li>Paulo não pode vir, ou melhor, recusou-se a vir. </li>
+     <li> Observe, <em>com muita calma</em>, a sua expressão.</li>
+     </ul> 
       
-      <h2>Isolar <strong>expressões explicativas</strong>: isto é, ou melhor, quer dizer, 
-      melhor dizendo</h2>
-      Irei para águas de Santa Bárbara, melhor dizendo, Bárbara.
+      <strong>Isolar expressões explicativas</strong>: isto é, ou melhor, quer dizer, 
+      melhor dizendo, etc.
+     <ul>
+     <li>Irei para águas de Santa Bárbara, melhor dizendo, Bárbara. </li>
+     </ul>
       
-      <h2>Para separar <strong>oração adjetiva explicativa</strong> da principal</h2>
-      Os "hooligans", que bebem demais, invadiram-na.
+      <strong>Para separar oração adjetiva explicativa da principal</strong>
+      <ul>
+      <li>Os "hooligans", que bebem demais, invadiram-na.</li>
+      </ul>
       
-      <h2>Separar adjuntos adverbiais no meio da frase ou deslocados</h2>
-       A maioria dos alunos, <em>durante as férias</em>, viajam.<br>
-       Durante as férias, a maioria dos alunos viajam.
+      <strong>Separar adjuntos adverbiais no meio da frase ou deslocados</strong>
+       <ul>
+       <li>A maioria dos alunos, <em>durante as férias</em>, viajam.</li>
+       <li>Durante as férias, a maioria dos alunos viajam.</li>
+       </ul>
        
        
-      <h2>Para separar adjuntos adverbiais longos</h2>
-      Antes da chegada dos líderes da torcida ao estádio, tudo estava tranquilo. 
+      <strong>Para separar adjuntos adverbiais longos</strong>
+      <ul>
+      <li>Antes da chegada dos líderes da torcida ao estádio, tudo estava tranquilo.</li>
+      </ul>
       
-      <h2>Para marcar a anteposição ou a intercalação de <strong>oração subordidnada 
-      adverbial</strong></h2>
-      Chegamos, como tínhamos combinado, às 19 h.
-      Como tínhamos combinado, chegamos às 19 h. 
+      <strong>Para marcar a anteposição ou a intercalação de <strong>oração subordidnada 
+      adverbial</strong>
+      <ul>
+      <li>Chegamos, como tínhamos combinado, às 19 h.</li>
+      <li>Como tínhamos combinado, chegamos às 19 h. </li>
+      </ul>
       
-     <h2>Para marcar a anteposição do predicativo</h2>
-      Eufóricos, os candidatos comemoravam.
+     <strong>Para marcar a anteposição do predicativo</strong>
+      <ul>
+      <li>Eufóricos, os candidatos comemoravam.</li>
+      </ul>
       
-     <h2>Em orações com objetos pleonásticos</h2>
-      Os meus alunos, sempre os respeito.<br>
-      O meu livro é bom, bom, muito bom!
+     <strong>Em orações com objetos pleonásticos</strong>
+      <ul>
+      <li>Os meus alunos, sempre os respeito.</li>
+      <li>O meu livro é bom, bom, muito bom!</li>
+      </ul>
       
-     <h2>Isolar o aposto explicativo (intercalação do aposto):</h2>
-      Pelé, o atleta do século, quis polemizar.<br>
-      Brasília, Capital da República, foi fundada em 1960.
+     <strong>Isolar o aposto explicativo (intercalação do aposto):</strong>
+      <ul>
+      <li>Pelé, o atleta do século, quis polemizar.</li>
+      <li>Brasília, Capital da República, foi fundada em 1960.</li>
+      </ul>
       
-      <h2>Para separar <strong>oração apositiva</strong> da principal</h2>
-      Dei um conselho, que se esforçassem mais.
+      <strong>Para separar oração apositiva da principal</strong>
+      <ul>
+      <li>Dei um conselho, que se esforçassem mais.</li>
+      </ul>
       
-      <h2>Isolar o vocativo (marcar sua interpolação)</h2>
-      Senhores candidatos, não sujem as ruas.<br>
-      Minha filha, não seja teimosa! <br>
-      Alberto, traga minhas calças até aqui. 
+      <strong>Isolar o vocativo (marcar sua interpolação)</strong>
+      <ul>
+      <li>Senhores candidatos, não sujem as ruas.</li>
+      <li>Minha filha, não seja teimosa! </li>
+      <li>Alberto, traga minhas calças até aqui. </li>
+      </ul>
       
-      <h2>Separar <strong>elementos coordenados assindéticos</strong>, ou seja, elemenetos de 
-      uma enumeração</h2>
-      Diretores, professores, alunos, ninguém veio. 
+      <strong>Separar elementos coordenados assindéticos, ou seja, elemenetos de 
+      uma enumeração</strong>
+      <ul>
+      <li>Diretores, professores, alunos, ninguém veio.</li>
+      </ul>
       
-      <h2>Para separar <strong>orações coordenadas assindéticas:</strong></h2>
-      Veio, viu, desistiu. 
+      <strong>Para separar <strong>orações coordenadas assindéticas:</strong>
+      <ul>
+      <li>Veio, viu, desistiu.</li>
+      </ul>
       
-      <h2>Para indicar a <strong>elipse do verbo</strong>:</h2>
-      Ela prefere filmes românticos; o namorado, de aventuras.<br>
-      Ela estava com fome e eu, com sede.
+      <strong>Para indicar a <strong>elipse do verbo:</strong>:
+      <ul>
+      <li>Ela prefere filmes românticos; o namorado, de aventuras.</li>>
+      <li>Ela estava com fome e eu, com sede.</li>
+      </ul>
       
-      <h2>Para indicar, nas datas, <strong>o lugar</strong></h2>
-      Londrina, 20 de novembro de 2006. 
+      <strong>Para indicar, nas datas, o lugar</strong>
+      <ul>
+      <li>Londrina, 20 de novembro de 2006. </li>
+      </ul>
       
-      <h2>Para separar orações coordenadas assindéticas</h2>
-      O tempo não para no porto, não apita na curva, não espera ninguém.<br>
-      Não sei nem como penso, nem como vivo, nem como sinto, nem como existo.
+      <strong>Para separar orações coordenadas assindéticas</strong>
+      <ul>
+      <li>O tempo não para no porto, não apita na curva, não espera ninguém.</li>
+     <li>Não sei nem como penso, nem como vivo, nem como sinto, nem como existo.</li>
+     </ul>
       
-      <h2>Para separar orações coordenadas sindéticas</h2>
-      Defendeu o amigo, porém manteve-se descontente. 
+      <strong>Para separar orações coordenadas sindéticas</strong>
+      <ul>
+      <li>Defendeu o amigo, porém manteve-se descontente.</li>
+      </ul>
       
-      <h2>A conjunção coordenada aditiva <em>e</em, quando equivale a <em>mas</em>, exige 
-      anteposição da vírgula</h2>
-      Ele pensa uma coisa, e diz outra.(= mas)
+      <strong>A conjunção coordenada aditiva <em>e</em> quando equivale a <em>mas</em>, exige 
+      anteposição da vírgula</strong>
+      <ul>
+      <li>Ele pensa uma coisa, e diz outra.(= mas)</li>
+      </ul>
       
-      <h2>Usa-se a vírgula nas orações coordenadas aditivas iniciadas pela conjunção <em>e </em> quando os 
-      sujeitos forem diferentes e quando o <em>e</em> for repetido. 
-      Ela irá no primeiro avião, e seus filhos no próximo.      
+      <strong>Usa-se a vírgula nas orações coordenadas aditivas iniciadas pela conjunção
+      <em>e</em> quando os 
+      sujeitos forem diferentes e quando o <em>e</em> for repetido. </strong>
+      <ul>
+      <li>Ela irá no primeiro avião, e seus filhos no próximo.</li>
+      </ul>
       
-      <h2>Oração subordinadas adjetivas: só a explicativa é separada por vírgula.</p>
-       A jovem garota, que sempre gostou de matemática, agora só estuda inglês. 
+      <strong>Oração subordinadas adjetivas: só a explicativa é separada por vírgula.</strong
+      <ul>
+      <li>A jovem garota, que sempre gostou de matemática, agora só estuda inglês. </li>
+      </ul>
       
-      <h2>Vírgula antes do <strong>mas</strong>, <strong>porque</strong> e outras 
-      conjunções:</h2>
-      <ol>Orações que indicam idéias contrárias (introduzidas pela conjunção <em>mas</em>), 
-      tempo, pausa, finalidade, explicação, lugar, consequência, modo, conformidade, condição, 
-      proporção, podem ser separadas por vírgulas, mas não obrigatório.</ol>
-      nota:<br>
-      Nesse caso, é importante que ocorra a vírgula, se essas orações vierem antes de outras, 
-      mas,  caso contrário, não é importante. No entanto, se a sua omissão comprometer o sentido da frase, 
-      ela deve ser usada. <br>
+      <strong>Vírgula antes do <i>mas</i>, <i>porque</i> e outras conjunções:</strong>
+      <blockquote>Orações que indicam idéias contrárias (introduzidas pela conjunção <em>mas</em>),
+      <i>tempo, pausa, finalidade, explicação, lugar, consequência, modo, conformidade, condição, 
+      proporção</i>, podem ser separadas por vírgulas, mas não obrigatoriamente.</blockquote>
       
-      Muitos tentam, mas poucos conseguem. (= idéias contrárias)<br>
+      nota:
+      <p>Nesse caso, é importante que ocorra a vírgula, se essas orações vierem antes de outras, 
+      mas,  caso contrário, não é importante. No entanto, se a sua omissão comprometer o sentido 
+      da frase, 
+      ela deve ser usada. </p>
+      <ul>
+      <li>Muitos tentam, mas poucos conseguem. (= idéias contrárias)</li>
       
-      Eu fiquei deveras feliz(,) quando cheguei a casa. (= indica tempo)<br>
+      <li>Eu fiquei deveras feliz(,) quando cheguei a casa. (= indica tempo)</li>
       
-      Quanto mais se aprende, menos se sabe. (= indica proporção e vem antes da outra) <br>
+      <li>Quanto mais se aprende, menos se sabe. (= indica proporção e vem antes da outra) </li>
       
-      Cheguei perto dela, afim de que me contasse todos os seus segredos. (= indica finalidade)<br>
+      <li>Cheguei perto dela, afim de que me contasse todos os seus segredos. (= indica finalidade)
+      </li>
       
-      Tudo está aqui, de acordo com o que combinamos. )= indica conformidade)<br>
+      <li>Tudo está aqui, de acordo com o que combinamos. )= indica conformidade)</li>
+      </ul>
       
-    <h2> Vírgula e abreviatura <strong>etc</strong>.</h2>
-    <p>Alguns autores costumam usar a vírgula antes da abreviatura <em>etc.</em>. Esse é um termo latino
-    que significa <em>e outras coisas</em>, e assim sendo, não haveria necessidade de usar a vírgula,
+    <strong> Vírgula e a abreviatura <i>etc</i></strong>.
+    <p>Alguns autores costumam usar a vírgula antes da abreviatura <em>etc.</em>. Esse é um termo 
+    latino
+    que significa <em>e outras coisas</em>, e assim sendo, não haveria necessidade de usar a
+    vírgula,
     no entanto, o seu uso é consagrado pela norma culta.</p>
       
      <h2>Não há vírgula:</h2>
@@ -129,21 +177,21 @@
      4. entre o nome e o seu complemento<br>
      Eles queriam que tudo permanecesse favorável ao deputado. <br><br>
      
-     5. entre oração principal e oração adjetiva restritiva<br>
+     5. entre oração principal e oração adjetiva restritiva:<br>
      O homem que ajuda o próximo nunca perde a esperana. <br><br>
      
-     6. antes da conjunção <em>e</em> quando ela introduz a última oração coordenada. <br>
+     6. antes da conjunção <em>e</em> quando ela introduz a última oração coordenada: <br>
      Comprou jóias, roupas, sapatos e brinquedos. <br><br>
      
-     7. orações subordinadas substantivas: não se separam por vírgulas.</h2>
+     7. orações subordinadas substantivas: não se separam por vírgulas:<br>
       É evidente que o culpado é o mordomo.    <br><br>
      
-     8. adjuntos adverbiais curtos: não se exige vírgula com eles, salvo se for exigida pausa. </h2>
+     8. adjuntos adverbiais curtos: não se exige vírgula com eles, salvo se for exigida pausa:<br>
       Depois disso tudo voltou ao normal. (ou Depois disso, tudo voltou ao normal.)<br>
-      No verão passado fomos à Paris. (ou No verão passado, fomos à Paris.)
+      No verão passado fomos à Paris. (ou No verão passado, fomos à Paris.)<br><br>
       
-     9. oração adverbial, após a oração principal, não exige vírgula</h2>
-     Quebrou a perna quando dançava. 
+     9. oração adverbial, após a oração principal, não exige vírgula:<br>
+     Quebrou a perna quando dançava. <br><br>
      
       nota:<br>
       <p>Ao contrário do que muitos pensam, a vírgula não depende da respiração e sim, da estrutura
