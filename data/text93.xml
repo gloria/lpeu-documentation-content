@@ -11,19 +11,28 @@
    </header>
    <content><![CDATA[
    <h2>Deslocamento do objeto direto</h2>
-   
-      	<li>Medicina você sabe que é prática.</li>
-      <em>Medicina</em> é objeto direto de <em>sabe</em>. Se a oração estivesse na ordem linear
+   <ul>
+      	<li>Medicina você sabe que é prática.
+   </ul>
+    <p>  <em>Medicina</em> é objeto direto de <em>sabe</em>. Se a oração estivesse na ordem linear
       normal seria: <em>Você sabe que medicina é prática.</em> Portanto, houve um 
       <em>deslocamento</em> do <em>objeto direto</em> para a esquerda. <br>
-      <p>Esse recurso
+      Esse recurso
       é chamado de <em>topicalização</em>. O estudo desse assunto chama-se <em>segmentação</em>.</p>
       
-      	<li>Explicando o exemplo dado: há duas orações:</li>
+      <ul>
+      	<li>Explicando o exemplo dado: há duas orações:
+      	</ul>
+      	<p>
       1a: <em>Você sabe</em>. (or. principal)<br>
       2a: (<em>que</em>) <em>Medicina é prática</em>. (or. subord.subst.objetiva direta)<br>
-      A palavra 'que' é uma conjunção integrante. Essa conjunção introduz oração subordinada substantiva.
-      <blockquote>lembrete:<br>
-      observe a correlação entre objeto direto e oração  subord. subst. objetiva direta.</blockquote>]]>
+      A palavra 'que' é uma conjunção integrante. Essa conjunção introduz oração subordinada 
+      substantiva.</p>
+      
+      
+     <p>lembrete:<br>
+      observe a correlação entre objeto direto e oração  subord. subst. objetiva direta.</p>
+      
+      ]]>
    </content>
 </article>
