@@ -11,9 +11,10 @@
    </header>
    <content><![CDATA[
  <h2>Substantivos</h2>
- Os substantivos dão nome às substâncias ou a objetos apreendidos como substâncias (qualidades, 
+ <p>Os substantivos dão nome às substâncias ou a objetos apreendidos como substâncias (qualidades, 
  estado, processos. Dividem-se em duas categorias: os concretos e os abstratos.</p>
- <ol> Os graus do substantivo:
+ Os graus do substantivo:
+ <ol>
  <li><strong>diminutivos</strong> <font size="-1">(tamanho menor que o normal)</font>
  <li><strong>aumentativos</strong> <font size="-1">(tamanho maior que o normal)</font>
  </ol>
@@ -32,7 +33,7 @@
   
   <h2>Outros exemplos irregulares:</h2>
   
-  <strong>aumentativos:</strong><br>
+  <p><strong>aumentativos:</strong></p>
       cabeça  - cabeçorra<br>
       cão  - canzarrão<br>
       copo  - copázio<br>
@@ -44,7 +45,7 @@
       nariz  - narigão<br>
       voz  - vozeirão<br>
       
-      <strong>diminutivos:</strong>
+    <p>  <strong>diminutivos:</strong></p>
       beijo  - beijote<br>
       barba  - barbicha<br>
       caminhão  - camioneta, caminhonete<br>
@@ -54,6 +55,8 @@
       palácio  - palacete<br>
       rapaz  - rapazola, rapazote<br>
       rio  - ribeiro, riacho<br>
-      vila  - vilela, vileta, vilola]]>
+      vila  - vilela, vileta, vilola
+      
+       ]]>
    </content>
 </article>
