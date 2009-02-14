@@ -5,10 +5,11 @@
          <category_item>modalidades</category_item>
          <category_item>operadores modais</category_item>
          <category_item>lógica</category_item>
-         
       </categories>
+      <autor>Gloria Edini</autor>
    </header>
    <content><![CDATA[
+   
    <p> A modalidade é considerada como a maneira que o enunciador se expressa em relação ao 
    conteúdo da frase, ao grau de verdade existente nela, ou em relação a quem o enunciado 
    se destina. Advérbios, certos verbos e também algumas categorias gramaticais podem contribuir 
@@ -24,24 +25,30 @@ falso/verdadeiro.<br> Para Aristóteles, uma proposição está sujeita a uma gr
 <em>necessário</em> até o <em>impossível</em>. Esse tipo de modalidade classifica-se em quatro 
 eixos:</p>
 
-<ol>necessário</ol>
-Estado de coisas que necessariamente ocorrem no mundo. Predominam verbos como: precisar,
-necessistar, ser, etc.<br>
-<em>As andorinhas são um grupo de aves passariformes da família Hirundinidae</em>.<br>
+<strong>Necessário</strong>
+<ul>
+<li>Estado de coisas que necessariamente ocorrem no mundo. Predominam verbos como: precisar,
+necessistar, ser, etc.</li><i>As andorinhas são um grupo de aves passariformes da família 
+Hirundinidae</i>.</li>
+</ul>
 
-<ol>possível</ol>
-Estado de coisas que podem levar a uma ocorrência. </br>
-<em>Pode estar chovendo em Curitiba agora</em>.<br>
+<strong>Possível</strong>
+<ul>
+<li>Estado de coisas que podem levar a uma ocorrência: <i>Pode estar chovendo em Curitiba agora</i>.
+</li>
+</ul>
 
-<ol>contingente</ol>
-Estado de coisas que podem ou não ocorrer no mundo. <br>
-<em>Luma é um ser humano</em>.<br>
-<em>Rio de Janeiro é uma cidade maravilhosa</em>. <br>
+<strong>Contingente</strong>
+<ul>
+<li>Estado de coisas que podem ou não ocorrer no mundo: <i>Luma é um ser humano</i>. <i>Rio de 
+Janeiro é uma cidade maravilhosa</i>.</li>
+</ul>
 
-
-<ol>impossível.</ol>
-Expressão que marca a impossibilidade de um acontecimento.<br>
-<em>As pessoas não contraem HIV/AIDS por um aperto de mão</em>.
+<strong>Impossível.</strong>
+<ul>
+<li>Expressão que marca a impossibilidade de um acontecimento: <i>As pessoas não contraem HIV/AIDS 
+por um aperto de mão</i>.</li>
+</ul>
  
    
       	]]>
