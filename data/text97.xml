@@ -8,19 +8,30 @@
          <category_item>gramática pt-br</category_item>
          <category_item>língua portuguesa</category_item>
       </categories>
+      <autor>Gloria Edini</autor>
    </header>
    <content><![CDATA[
       <blockquote><strong>Topônimo</strong> (nome próprio de lugar)  <strong>Antropônimo</strong> 
       (nome próprio de pessoas)</blockquote>
-      	<li>Topônimos e antropônimos, <em>consagrados pelo uso</em>, <em>podem ser mantidas 
-      	ou eliminadas as consoantes finais</em>:</li>
-      Madrid ou Madri, David ou Davi, Jacob ou Jacó etc.<br>
-      	<li>Nomes bíblicos, podem ser mantidos ou simplificados os dígrafos finais
-      	<em>pronunciados</em>: -ph, -ph, -th: </li>
-      Loth ou Lot, Moloch ou Moloc, Ziph ou Zif etc. Os dígrafos <em>mudos</em> podem ser eliminados, adaptados ou mantidos: Joseph
-      ou José, Beth ou Bete etc.<br>
-      	<li><em>Substituição quando possível</em> de topônimos estrangeiros: </li>
+      
+      <p>Topônimos e antropônimos, <em>consagrados pelo uso</em>, <em>podem ser mantidas 
+      	ou eliminadas as consoantes finais</em>:<br>
+      	
+      Madrid ou Madri, David ou Davi, Jacob ou Jacó etc.</p>
+      
+      <p>Nomes bíblicos, podem ser mantidos ou simplificados os dígrafos finais
+      	<em>pronunciados</em>: -ph, -ph, -th: <br>
+      	
+      	Loth ou Lot, Moloch ou Moloc, Ziph ou Zif etc.</p>
+      	
+      	<p>Os dígrafos <em>mudos</em> podem ser eliminados, adaptados ou mantidos:<br>
+      	Joseph
+      ou José, Beth ou Bete etc.</p>
+      
+      	<p><em>Substituição quando possível</em> de topônimos estrangeiros: <br>
       	Nova York por Nova Iorque, Zürich por Zurique, London
-      por Londres, Xangai por Shangai etc.]]>
+      por Londres, Xangai por Shangai etc.</p>
+      
+      ]]>
    </content>
 </article>

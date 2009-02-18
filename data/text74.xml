@@ -6,13 +6,16 @@
          <category_item>dúvidas de língua portuguesa</category_item>
          <category_item>língua portuguesa</category_item>
       </categories>
+      <autor>Gloria Edini</autor>
    </header>
-   <content><![CDATA[<font size="3"> </font>
-      <ol><font size="3">trustes </font></ol>
-      - Fusão de empresas do mesmo ramo.
-      <font size="3"> </font>
-      <ol><font size="3">cartel </font></ol>
+   <content><![CDATA[
+   
+  <p><strong>Trustes </font><br>
+      - Fusão de empresas do mesmo ramo.</p>
+   <p><strong>Cartel </strong><br>
       - Monopólio exercido por grandes empresas para comercialização de certos produtos, estabelecendo condições especiais de venda,
-      pagamento etc.]]>
+      pagamento, etc.
+</p>      
+      ]]>
    </content>
 </article>
