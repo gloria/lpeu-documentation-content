@@ -7,13 +7,20 @@
          <category_item>figuras de linguagem</category_item>
          <category_item>língua portuguesa</category_item>
       </categories>
+      <autor<Gloria Edini</autor>
    </header>
-   <content><![CDATA[<font size="3">Figuras de linguagem: </font><font size="-2">a metáfora</font>
-      <ol> É uma comparação ou semelhança. Representa uma associação feita na mente da pessoa.</ol>
-      Exemplos:<br/><br/>“A primavera da vida” (<font size="-3"> a mocidade se parece com aquela estação do ano</font>)
-      “O crepúsculo da partida”(<font size="-3"> momento da partida se parece com o final do dia</font>)
-      “O vôo das palavras”(<font size="-3"> a dispersão</font>)
-      “O rosário de lágrimas”(<font size="-3">a sucessão de lágrimas</font>)
-      “A cabeleira da árvore”( <font size="-3">a copa</font>)]]>
+   <content><![CDATA[
+   
+   <h2>Figuras de linguagem: a metáfora</h2>
+   
+   <p>É uma comparação ou semelhança. Representa uma associação feita na mente da pessoa:<br>
+   “A primavera da vida” <font size="-1"> (a mocidade se parece com aquela estação do ano)</font><br>
+   “O crepúsculo da partida”<font size="-1"> (momento da partida se parece com o final do 
+   dia)</font><br>
+   “O vôo das palavras”<font size="-1"> (a dispersão)</font><br>
+   “O rosário de lágrimas”<font size="-1"> (a sucessão de lágrimas)</font><br>
+   “A cabeleira da árvore”<font size="-1"> (a copa)</font><br>
+   
+   ]]>
    </content>
 </article>

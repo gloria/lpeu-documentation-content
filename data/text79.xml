@@ -8,13 +8,14 @@
          <category_item>gramática pt-br</category_item>
          <category_item>língua portuguesa</category_item>
       </categories>
+      <autor>Gloria Edini</autor>
    </header>
-   <content><![CDATA[Fazendo a diferença:
-      <ol><strong>acético</strong></ol>
-      - azedo
-      <ol><strong>ascético</strong></ol>
-      - Relativo a ascetismo. Místico.
-      <ol><strong>asséptico</strong></ol>
-      - Relativo à assepcia. Isento de qualquer germe patogênico.]]>
+   <content><![CDATA[
+   <p>Fazendo a diferença:</p>
+   <strong>acético:</strong> - azedo<br>
+   <strong>ascético:</strong> - relativo a ascetismo - místico.<br>
+   <strong>asséptico</strong> - relativo à assepcia - isento de qualquer germe patogênico.<br>
+   
+   ]]>
    </content>
 </article>
