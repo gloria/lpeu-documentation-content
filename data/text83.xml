@@ -8,12 +8,25 @@
          <category_item>narrador</category_item>
          <category_item>narratário</category_item>
       </categories>
+      <autor>Gloria Edini</autor>
    </header>
-   <content><![CDATA[<strong>Narrador </strong>
-      Personagem de ficção.<br/><br/>
-      - Sua primeira função é relatar a história.<br/><br/>
-      <strong>Narratário</strong><br/><br/>
-      Personagem de ficção. <br/><br/>
-      - Não se confunde com o leitor. O narrador simula que o narratário seja um leitor de carne e osso.]]>
+   <content><![CDATA[
+   
+   <h2>Narrador</h2>
+     <p> Personagem de ficção.<br>
+      - Sua primeira função é relatar a história. Não confundir o narrador com o autor. O narrador
+      é um personagem de papel. </p>
+      
+      
+   <h2>Narratário</h2>
+    <p>Narratário<br>
+      Personagem de ficção. Não se confunde com o leitor. O narrador simula que o narratário seja 
+      um leitor de carne e osso. Algumas vezes o narratário é representado por um plural (várias 
+      pessoas, por um homem, uma mulher, uma criança). O narratário é com quem o narrador dialoga. 
+      </p>
+      
+      
+      
+      ]]>
    </content>
 </article>
