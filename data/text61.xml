@@ -8,18 +8,22 @@
          <category_item>dúvidas de língua portuguesa</category_item>
          <category_item>gramática pt-br</category_item>
          <category_item>língua portuguesa</category_item>
+         <category_item>pronomes</category_item>
       </categories>
+      <autor>Gloria Edini</autor>
    </header>
    <content><![CDATA[
-      <p style="margin: 0cm 0cm 0pt">&nbsp;</p>
-      <p style="margin: 0cm 0cm 0pt"><span style="font-size: 10.5pt; font-family: Verdana"><em>Ela está <strong>toda</strong> molhada</em>
-      ou <em>Ela está <strong>todo</strong> molhada? </em></span></p>
-      <p style="margin: 0cm 0cm 0pt">&nbsp;</p>
-      <p style="margin: 0cm 0cm 0pt"><span style="font-size: 10.5pt; font-family: Verdana"><em> </em>Pronome, advérbio, adjetivo?</span></p>
-      <p style="margin: 0cm 0cm 0pt">&nbsp;</p>
-      <p style="margin: 0cm 0cm 0pt">De acordo com Evanildo Bechara em Moderna Gramática Portuguesa:</p><br/><br/><ul>
-      	<li><strong><em> Todo</em></strong> por suas origens pronominais pode, mesmo empregado adverbialmente, concordar, por atração,
-      com a palavra a que se refere. Portanto, a primeira opção está correta.</li>
-      </ul>]]>
+  
+  <p>
+  <i>Ela está <strong>toda</strong> molhada</i> ou <i>Ela está <strong>todo</strong> molhada?</i>
+  </p>
+  
+  
+ <p>De acordo com Evanildo Bechara em Moderna Gramática Portuguesa:
+ <i>Todo</i> por suas origens pronominais pode, mesmo empregado adverbialmente, concordar, 
+ por atração, com a palavra a que se refere. Portanto, a primeira opção está correta.
+ </p>
+ 
+ ]]>
    </content>
 </article>
