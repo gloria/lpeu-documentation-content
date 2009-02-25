@@ -1,23 +1,47 @@
 <?xml version="1.0" ?> <article xmlns:content="http://purl.org/rss/1.0/modules/content/">
    <header>
-      <title>Vírgula, zeuma e or. coord. assindédita</title>
+      <title>Elipse e Zeugma</title>
       <categories>
-         <category_item>vírgula</category_item>
-         <category_item>pontuação</category_item>
-         <category_item>zeuma</category_item>
-         <category_item>orações coordenadas</category_item>
-         <category_item>sintaxe</category_item>
+        <category_item>zeugma</category_item>
+        <category_item>orações coordenadas</category_item>
+         <category_item>figuras de sintaxe</category_item>
+         <category_item>elipse</category_item>
       </categories>
       <autor>Gloria Edini</autor>
    </header>
-   <content><![CDATA[<h2>Zeuma: um termo marcado pela vírgula</h2>
-   <p>Zeuma é a representação por uma vírgula e corresponde à omissão de um termo já relacionado 
-   anteriormente. </p>
-   Maria gosta de sorvete de morango, sua irmã,(vírgula = gosta) de sorvete de abacaxi.<br><br>
-   O exemplo representa orações coordenadas assindéditas. Assindéticas, porque não há a presença de 
-   conectivos, ou seja, conjunções. 
+   <content><![CDATA[
    
-    
-      	]]>
+  <p>
+   Alguns gramáticos, como Bechara, não consideram omissão do pronome sujeito, 
+   quando está subentendido na desinência verbal: Sairemos hoje. (sujeito elíptico - <i>nós</i>). 
+   Para outros, esse é um caso de <i>elipse</i>. 
+   
+  Compreendendo o significado dos termos.<br>
+   <ul>
+   <li>Elipse - omissão de termos que ainda não foram enunciados anteriormente: <i>Em pleno meio dia, 
+   salto e roupa de festa!</i>( ela está usando - termos elípticos) <i>Hoje sairemos mais cedo</i>.
+   (nós - elíptico)
+   </li>
+   
+   <li>Zeugma - omissão de termos já enunciados anteriormente: <i>Você apaga meu desenho, eu faço 
+   outros dez. (desenhos - termo elíptico)</i>
+   </li>
+   </ul>
+   
+   	]]>
    </content>
 </article>
+   
+ 
+   
+   
+   
+   
+   
+   
+   
+      
+  
+ 
+   
+  
