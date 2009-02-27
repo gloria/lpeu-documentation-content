@@ -1,43 +1,46 @@
 <?xml version="1.0" ?> <article xmlns:content="http://purl.org/rss/1.0/modules/content/">
    <header>
-      <title>Metaplasmos: assoviar > assobiar</title>
+      <title>formas pronominais: verbos dizer, trazer e fazer</title>
       <categories>
-         <category_item>metaplasmos</category_item>
-         <category_item>gramática histórica</category_item>
-         <category_item>fonemas</category_item>
-         <category_item>língua portuguesa</category_item>
+         <category_item>colocação pronominal</category_item>
+         <category_item>pronomes átonos</category_item>
+         <category_item>morfossintaxe</category_item>
+         <category_item>mesóclise</category_item>
+         <category_item>verbos</category_item>
        </categories>
       <autor>Gloria Edini</autor >
    </header>
    <content><![CDATA[
- <p>
- A língua portuguesa vem sofrendo transformações desde sua origem até nossos dias. Dá-se o nome
- de <b>metaplasmos</b> a essas transformações. Os metaplasmos são classificados com uma nomenclatura
- variada baseada no tipo de mudança sofrida pelo vocábulo: perdem, ganham, permutam, transformam
- fonemas; uns vocábulos se transformam por causas fonéticas, pela lei do menor esforço, outros pela 
- persistência de tonicidade, etc. Enfim, são várias as transformações sofridas e consequentemente, 
- vários tipos de metaplasmos. 
- </p>
- 
 
- <p>
- Metaplasmo por transformação: um fonema se transforma em outro diferente do primeiro.<br>
- Os metaplasmos de transformação também são muitos, entre eles: degeneração, desnasalação, metafonia,
- dissimilação, rotacismo, ditongação, monotongação, nasalação, palatização, sonorização, etc. 
- </p>
- 
-  <h2>Analisando os vocábulos <i>assoviar</i> e <i>assobiar</i></h2>
- <p>
- A transformação sofrida nesses vocábulos recebe o nome de <b>degeneração</b>, transformação 
- do fonema /v/ em fonema /b/. 
- </p>
- 
- <p>Geralmente essas transformações ocorrem pela lei do menor esforço, procurando facilitar o ponto
- de articulação no aparelho fonador. A tendência da fala é encontrar uma combinação mais facilitada
- para juntar os fonemas das palavras. 
- </p>
- 
- 	]]>
+  
+  <h2>Forma correta de uso para certos verbos</h2>
+  <p>
+ Deve-se tomar cuidado quando ocorre <b>mesóclise</b> com os verbos <b>dizer</b>, <b>trazer</b> 
+ e <b>fazer</b>. São erradas as colocações: trazê-lo-ia, dizê-lo-ei, etc. 
+  </p>
+  A forma correta:
+  <ul>
+  <li>Trazer + o<br>
+  futuro do presente: trá-lo-ei, trá-lo-ás, etc.<br>
+  futuro do pretérito: trá-lo-ia, trá-lo-ias, etc.</li>
+  </ul>
+  
+  <ul>
+  <li>Dizer + o<br>
+  futuro do presente: di-lo-ei, di-lo-ás, etc.<br>
+  futuro do pretérito: di-lo-ia, di-lo-ias, etc.</li>
+  </ul>
+  
+  <ul>
+  <li>Fazer + o<br>
+  futuro do presente: fá-lo-ei, fá-lo-ás, etc.<br>
+  futuro do pretérito: fá-lo-ia, fá-lo-ias, etc.</li>
+  </ul>
+  
+        	]]>
    </content>
 </article>
-
+  
+  
+  
+  
