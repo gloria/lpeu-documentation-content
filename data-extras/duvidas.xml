@@ -5,10 +5,18 @@
       <category_item>extras</category_item>
       </categories>
    </header>
-   <content><![CDATA[Envie sua dúvida sobre a língua portuguesa. E-mail
-   para: gedini@taboca.com<br/><br/>com título
-      da mensagem : Dúvidas Português<br/><br/>Coloque seu nome, se quiser se identificar. 
-      Seu e-mail não será publicado, mas o conteúdo relativo a sua dúvida e sua questão serão 
-      publicados no Web site, disponíveis também para outras pessoas. ]]>
+   <content><![CDATA[
+  <div id="interact" style="background-color:#fff; padding:.5em; margin-top:1em; border:1px solid gray; ">
+<strong>Tire sua d&uacute;vida com o autor</strong>
+
+<p style="color:gray">Utilize o campo abaixo para enviar suas d&uacute;vidas ao autor atrav&eacute;s do site. Ao enviar sua pergunta ou sugest&atilde;o de t&oacute;pico voc&ecirc; est&aacute; de acordo com os termos de utiliza&ccedil;&atilde;o do web site. O LPeu reserva o direito de publicar ou n&atilde;o as perguntas e respostas com o objetivo de compartilhar com outros usu&aacute;rios. Se sua d&uacute;vida for publicada ela pode ser modificada e voc&ecirc; ser&aacute; notificado quando a resposta entrar no ar.</p>
+
+<form action="/lpeu/enviarDuvida.jsp" method="POST" target="miniframe">
+<input name="nome" type="text" style="width:100%" value="seu nome aqui"><input name="email" type="text" style="width:100%" value="seu e-mail "><textarea name="info" style="width:100%" rows="9" cols="60"></textarea><input type="submit" value="Enviar" onclick="javascript:document.getElementById('interact').style.display='none';">
+</form>
+<iframe name="miniframe" style="width:1px;height:1px"></iframe>
+</div>
+
+       ]]>
    </content>
 </article>
