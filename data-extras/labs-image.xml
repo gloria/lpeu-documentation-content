@@ -1,0 +1,27 @@
+<?xml version="1.0" ?> <article xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <header>
+      <title>Dúvidas em Português?</title>
+      <categories>
+      <category_item>extras</category_item>
+      </categories>
+   </header>
+   <content><![CDATA[
+
+
+<h1>Foto Inspiração - Labs</h1>
+
+<p>Utilize a foto abaixo, se inspire, e escreve um parágrafo, uma mensagem, uma história, suas observações.</p>
+
+<img src="http://fotos.mixar.com.br/maps/ptbr/Arco_do_Triunfo_/test.jpg" />
+
+  <div id="interact" >
+
+<form action="/lpeu/enviarDuvida.jsp" method="POST" target="miniframe">
+<input name="nome" type="text" style="width:100%" value="seu nome aqui"><input name="email" type="text" style="width:100%" value="seu e-mail "><textarea name="info" style="width:100%" rows="9" cols="60"></textarea><input type="submit" value="Enviar" onclick="javascript:document.getElementById('interact').style.display='none';">
+</form>
+<iframe name="miniframe" style="width:1px;height:1px"></iframe>
+</div>
+
+       ]]>
+   </content>
+</article>
