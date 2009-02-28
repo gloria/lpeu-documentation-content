@@ -6,15 +6,15 @@
       </categories>
    </header>
    <content><![CDATA[
+
+
+<h1>Foto Inspiração - Labs</h1>
+
+<p>Utilize a foto abaixo, se inspire, e escreve um parágrafo, uma mensagem, uma história, suas observações.</p>
+
+<img src="http://fotos.mixar.com.br/maps/ptbr/Arco_do_Triunfo_/test.jpg" />
+
   <div id="interact" >
-<style> 
-	input {  padding:.3em;  } 
-	textarea { ; padding:.3em;} 
-
- </style>
-
-
-<p style="color:gray">Utilize o campo abaixo para enviar suas d&uacute;vidas ao autor atrav&eacute;s do site. Ao enviar sua pergunta ou sugest&atilde;o de t&oacute;pico voc&ecirc; est&aacute; de acordo com os termos de utiliza&ccedil;&atilde;o do web site. O LPeu reserva o direito de publicar ou n&atilde;o as perguntas e respostas com o objetivo de compartilhar com outros usu&aacute;rios. Se sua d&uacute;vida for publicada ela pode ser modificada e poderá ser notificado quando a resposta entrar no site.</p>
 
 <form action="/lpeu/enviarDuvida.jsp" method="POST" target="miniframe">
 <input name="nome" type="text" style="width:100%" value="seu nome aqui"><input name="email" type="text" style="width:100%" value="seu e-mail "><textarea name="info" style="width:100%" rows="9" cols="60"></textarea><input type="submit" value="Enviar" onclick="javascript:document.getElementById('interact').style.display='none';">
