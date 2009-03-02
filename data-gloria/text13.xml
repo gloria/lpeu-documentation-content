@@ -1,4 +1,4 @@
-<?xml version="1.0" ?> <article xmlns:content="http://purl.org/rss/1.0/modules/content/">
+ <?xml version="1.0" ?> <article xmlns:content="http://purl.org/rss/1.0/modules/content/">
    <header>
       <title>résumé</title>
       <categories>
@@ -76,4 +76,5 @@
       <p class="post" id="post-15">&nbsp;</p>
       <p class="post" id="post-16"><small> <!-- by admin --></small></p>]]>
    </content>
-</article>
+</article>  
+      
