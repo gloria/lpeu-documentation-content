@@ -1,0 +1,32 @@
+<?xml version="1.0" ?> <article xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   <header>
+      <title>Revisions and text organization</title>
+      <categories>
+         <category_item>revisions</category_item>
+         <category_item>web texts</category_item>
+      </categories>
+   </header>
+   <autor>Gloria Edini</autor>
+   <content><![CDATA[ 
+ 
+ <p>Text revisions into portuguese language of tecnical genre, computational internet area for 
+ for Bugzilla - AMO <a href="http://addons.mozilla.org/"target="_blank">addons.mozilla.org</a> 
+  site <a href="https://addons.mozilla.org/pt-BR/firefox/" target="_blank">https://addons.mozilla.
+      org/pt<wbr></wbr>-BR/firefox.</a>. It refers to a first pt-BR version, and evaluations and 
+      feedback for this work will be always wellcome. The related docs
+      
+      are setting in <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=380221" 
+      
+      target="_blank">https://bugzilla.mozilla.org<wbr></wbr>/show_bug.cgi?id=380221</a>.
+      
+      A text only will be completed by the help of the reader.<br>
+ </p>
+ 
+ <p>
+ Text organization into the articles of Pinktheme articles. See: 
+ </p>
+ 
+    ]]>
+   </content>
+</article>  
+      

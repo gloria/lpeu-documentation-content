@@ -1,24 +1,51 @@
-<?xml version="1.0" ?> <article xmlns:content="http://purl.org/rss/1.0/modules/content/">
+ <?xml version="1.0" ?> <article xmlns:content="http://purl.org/rss/1.0/modules/content/">
    <header>
-      <title>REVIEWS</title>
+      <title>Share page</title>
       <categories>
-         <category_item>reviews</category_item>
-      </categories>
+         <category_item>sharing</category_item>
+         </categories>
+      <autor>Gloria Edini</autor>
    </header>
-   <content><![CDATA[WEISZ, Telma.  O diálogo entre ensino e aprendizagem (<em>Dialogue between learning and teaching). </em> São Paulo : Ática,
-      2000. (pt-br language)<br/><br/>Há necessidade do diálogo professor/aluno. O livro relata a
-      experiência de uma professora com alunos do ensino fundamental
-      com dificuldades de aprendizagem. Percebeu então, que a escola agia
-      como uma minoria dominando uma maioria. Em busca de soluções para
-      a questão que esmagava o processo de aprendizagem, que havia aprendido
-      no sua formação, Telma Weisa, a princípio,  muda a sua forma de olhar o aluno – começa a vê-lo como alguém que já possui muito
-      conhecimento, alguém que pensa e assim, passa a esforçar-se para integrá-lo socio-culturalmente. A autora reconhece que o
-      professor, mesmo que não o saiba, ele tem seu método de ensino, mas conserva como ponto principal que o professor deve fazer
-      o aluno avançar e como ferramenta principal o dialogismo. Na sondagem dos processos pensa-se que a criança deve ter a sua
-      frente proposta difíceis para resolver, mas não ao ponto de desanimar-se. Fala-se sobre o erro construtivo. Ponto importantíssimo
-      é a questão da avaliação: aquela na qual o professor busca o ponto dos “erros” dos alunos e trabalha novamente as questões,
-      ele próprio ou por meio de projetos que envolvam outras pessoas. A tarefa do professor não é a de transmitir conhecimentos.
-      Aborda também a necessidade de participação do professor no processo político pedagógico, bem como a sua qualificação e remuneração
-      como elementos essenciais para o seu bom desempenho.]]>
+   <content><![CDATA[
+
+   <h2>Literature page</h2>
+   
+   <p>
+   Share space to comments of literary works, poems, photos .. so, it's a open space for reality 
+   and imaginary  things, where all ideas will be wellcome.
+   </p>
+   
+   <h2> Share Information</h2>
+   <p>
+   In this page there is a space for share information, exchanging experiences, expressions and all
+   kinds that you want to know. ok?
+   </p>
+   
+   <blockquote>
+   “If you have an apple and I have an apple, and we exchange these apples then you and I will 
+   still each have one apple. But if you have an idea and I have an idea, and we exchange these 
+   ideas, then each of us will have two ideas.<br>
+   
+   George Bernard Shaw</blockquote>
+   
+   <p>
+   The translation <br>
+   
+   I know translating is an art. The professor Brenno Silveira talks in his book <em>The art of 
+   translation </em>that translating is all, except sample. I have seen that it’s really, - all 
+   is able, but not sample! This work has two segments, both with expression and content plans 
+   that must be well defined.<br>
+   
+   In the first segment, the translator need to be loyal to the document and to the author. 
+   He need respects the authorship as so to find in the new language the linguisstic elements,
+   as near as possible, to translate the ideas of the author.<br>
+   
+   About Web texts sometimes is necessary to get a few knowlodges about the article whose you are 
+   working, for example, testing installation, trying options, or to see how it works. 
+   Is important to have a link between the autor with translator, or about technical text is 
+   important the translator understanding the subject that will be translate.
+   </p>
+      
+      ]]>
    </content>
 </article>
